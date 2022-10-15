@@ -1,0 +1,13 @@
+/* css/home.css */
+
+section {
+	width: 600px;
+	border: 2px solid #000000;
+	border-radius: 10px;
+	background: #ffffff;
+	margin: 140px auto 0 auto;
+	padding: 30px;
+	font-weight: bold;
+	box-shadow: 5px 6px 15px 0px #1b98d4;
+	text-shadow: 2px 0px 23px #000000;
+}

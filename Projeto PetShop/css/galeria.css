@@ -1,0 +1,31 @@
+/*	css/galeria.css*/
+
+section {
+	width: 600px;
+	min-height: 300px;
+	background: #ffffff;
+	border: 1px solid greenyellow;
+	border-radius: 10px;
+	margin: 60px auto 0 auto;
+	text-align: center;
+	padding: 8px 0;
+}
+section h3 {
+	margin-top: 0;
+}
+
+.miniaturas img {
+	width:89px;
+	border: 2px solid greenyellow;
+	border-radius: 10px;
+	margin: 20px 0 auto 0;
+	padding: 4px;
+}
+
+.miniaturas img.ativo,
+.miniaturas img:hover{
+	cursor: pointer;
+	box-shadow: 1px 2px 2px 2px #000000;
+	filter: grayscale();
+	transition: box-shadow 1s, filter 1s;
+}

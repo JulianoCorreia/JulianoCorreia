@@ -1,0 +1,16 @@
+/*	css/impressoa.css	*/
+
+#menu {
+	display: none;
+}
+
+section {
+	border: none;
+	border-radius: none;
+	box-shadow: none;
+	text-shadow: none;
+}
+
+section p {
+	font-size: 40px;
+}

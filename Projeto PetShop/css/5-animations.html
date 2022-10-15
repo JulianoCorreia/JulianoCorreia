@@ -1,0 +1,29 @@
+<style>
+ div {
+    width: 256px;
+    height: 256px;
+    background: url(img/gear.png);
+}
+
+div:hover {
+    animation-name: gira;
+    
+    animation-duration: 1s;
+    animation-timing-function: linear; /* ease, ease-in, ease-out, ease-in-out, linear, step-start, step-end */ 
+    animation-delay: 0;
+    animation-iteration-count: infinite; /* pode ser 1, ou infinte */
+    animation-direction: normal; /* normal, reverse, alternate, alternate-reverse */
+    animation-play-state: running; /* paused ou running */
+
+}
+
+
+@keyframes gira {
+  to { /* FROM --> TO */
+  transform: rotate(360deg);
+  }
+}
+</style>
+
+
+<div></div>

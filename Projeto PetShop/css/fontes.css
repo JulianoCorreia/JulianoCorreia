@@ -1,0 +1,24 @@
+/*	css/fontes.css	*/
+
+
+@font-face {
+	font-family: beautiful;
+	src: url(../fontes/Beautiful-ES.ttf);
+}
+@font-face {
+	font-family: jedi;
+	src: url(../fontes/Starjedi.ttf);
+}
+@font-face {
+	font-family: computer;
+	src: url(../fontes/computer-font.ttf);
+}
+@font-face {
+	font-family: bubblegum;
+	src: url(../fontes/bubblegum-sans-regular.otf);
+}
+
+
+
+
+

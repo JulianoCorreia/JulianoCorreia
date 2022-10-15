@@ -1,0 +1,35 @@
+<style>
+ div {
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    animation-name: anima_movendo;
+    animation-duration: 5s;
+    /*
+    animation-timing-function: ease;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-play-state: running;*/
+}
+
+
+  @keyframes anima_movendo {
+   0% { 
+      background: black; 
+      width: 100px; }
+
+   25% { background: green; }
+
+   50% { background: blue; }
+
+   75% { background: red; }
+
+   100% { 
+      background: yellow;
+       width: 200px; }
+}
+</style>
+
+
+<div></div>

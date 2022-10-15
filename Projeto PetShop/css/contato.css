@@ -1,0 +1,30 @@
+/* css/contato.css */
+
+#contato {
+	border: 1px;
+	width: 400px;
+	margin: 100px auto 0 auto;
+}
+input, textarea, button {
+	display: block;
+	border: 2px solid rgb(22, 5, 172);
+	width: 100%;
+	padding: 5px;
+	margin-bottom:10px;
+	border-radius: 7px;
+	font-family: bubblegum;
+	font-size: 17px;
+}
+#mensagem {
+	height: 80px;
+	resize: none;
+}
+button[type=submit] {
+	width: 100px;
+	margin: 0 auto;
+}
+
+.erro{
+	border: 3px solid red;
+	transition: border 0.3s;
+}
