@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to bottom, #141e30, #243b55);
+    display: grid;
+    place-items: center;
+}
+
+.back {
+    width: 25%;
+    height: 80vh;
+    background-color: #a5b7d9;
+    border-radius: 10px;
+    z-index: 0;
+    position: absolute;
+    rotate: 5deg;
+    opacity: .4;
+}
+
+.container {
+    width: 25%;
+    height: 80vh;
+    background-color: #a5b7d9;
+    border-radius: 10px;
+    box-shadow: 7px 10px 5px 0px rgba(0, 0, 0, 0.75);
+    z-index: 2;
+}
+
+.login {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.cabecalho {
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.info,
+.password {
+    width: 100%;
+    margin: 15px;
+}
+
+#email,
+#pass {
+    width: 80%;
+    height: 45px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #243b55;
+    color: white;
+}
+
+.me_lembrar {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.buttons {
+    width: 100%;
+}
+
+.ajuda {
+    color: #141e30;
+    transition: all .5s;
+}
+
+.ajuda a:hover {
+    cursor: pointer;
+    color: white;
+}
+
+.buttons button {
+    width: 80%;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    background-color: #243b55;
+    color: white;
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.buttons button:hover {
+    cursor: pointer;
+    background-color: #141e30;
+}
+
+.sociais {
+    margin-top: 20px;
+}
+
+.ou {
+    font-weight: 700;
+    color: white;
+}
+
+.social {
+    display: flex;
+    padding: 10px;
+}
+
+.social a {
+    padding: 0px 10px;
+    font-size: 25px;
+    color: #243b55;
+}
+
+.social a:hover {
+    cursor: pointer;
+    font-size: 25px;
+    color: #141e30;
+    transition: all .5s;
+
+}
+
+.login {
+    margin-top: 20px;
+    color: #141e30;
+}
+
+.sign-link {
+    color: white;
+    transition: all .5s;
+}
+
+.sign-link:hover {
+    color: #243b55;
+    cursor: pointer;
+}
