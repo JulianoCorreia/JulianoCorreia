@@ -1,5 +1,13 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
+Oi! meu nome é Juliano Correia!
+
+Descobri que gostava de programação a mais ou menos uns 10 anos, quando tive meu primeiro emprego de T.I, mas nunca me dediquei ao máximo para de fato me tornar um programador, atuei nas mais variadas áreas, desde mecânica automotiva, passando por setores fiscais e faturamento, estoque e conferência, mas sempre acabava voltando o olhar para a programação, depois de muito tempo entendi que meu lugar estava na programação/desenvolvimento, aos poucos isso acabou se tornando um sonho e um objetivo de vida. Então decidi estudar e me dedicar. E atualmente comecei a colocar esse sonho em prática estudando HTML, CSS e JavaScript.
+Sei que aqui está um pouco vazio ainda (haha), mas logo logo estará cheio de códigos e projetos. No decorrer dos estudos vou adicionando mais coisas.
+Abraço!
+
+
+
  <div>
    <a href="https://github.com/JulianoCorreia">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoCorreia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
