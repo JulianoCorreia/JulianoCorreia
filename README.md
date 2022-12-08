@@ -2,8 +2,8 @@
 
 Oi! meu nome é Juliano Correia!
 
-Descobri que gostava de programação a mais ou menos uns 10 anos, quando tive meu primeiro emprego de T.I, mas nunca me dediquei ao máximo para de fato me tornar um programador, atuei nas mais variadas áreas, desde mecânica automotiva, passando por setores fiscais e faturamento, estoque e conferência, mas sempre acabava voltando o olhar para a programação, depois de muito tempo entendi que meu lugar estava na programação/desenvolvimento, aos poucos isso acabou se tornando um sonho e um objetivo de vida. Então decidi estudar e me dedicar. E atualmente comecei a colocar esse sonho em prática estudando HTML, CSS e JavaScript.
 Sei que aqui está um pouco vazio ainda (haha), mas logo logo estará cheio de códigos e projetos. No decorrer dos estudos vou adicionando mais coisas.
+Caso queira contriubuir comigo, me adicione no Linkedin e vamos trocar experiências e conhecimentos.
 Abraço!
 
 
