@@ -3,8 +3,8 @@
 Oi! meu nome é Juliano Correia!
 
 Sei que aqui está um pouco vazio ainda (haha), mas logo logo estará cheio de códigos e projetos. No decorrer dos estudos vou adicionando mais coisas.
-Caso queira contriubuir comigo, me adicione no Linkedin e vamos trocar experiências e conhecimentos.
-Abraço!
+Caso queira contriubuir na minha jornada, me adicione no Linkedin e vamos trocar experiências e conhecimentos.
+Grande abraço!
 
 
 
