@@ -2,7 +2,7 @@
 
 Oi! meu nome é Juliano Correia!
 
-Atualmente estou estudando Python. Sei que aqui está um pouco vazio ainda (haha), mas no decdorer dos estudos vou adicionando mais coisas.
+Atualmente estou estudando Python. Sei que aqui está um pouco vazio ainda (haha), mas no decorer dos estudos vou adicionando mais coisas.
 Caso queira contribuir na minha jornada, me adicione no Linkedin e vamos trocar experiências e conhecimentos.
 Grande abraço!
 <br>
