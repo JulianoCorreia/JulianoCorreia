@@ -2,7 +2,8 @@
 
 Oi! meu nome é Juliano Correia!
 
-Atualmente estudando Python. Sei que aqui está um pouco vazio ainda (haha), mas no decorer dos estudos vou adicionando mais conteúdos.
+Um cara apaixonado por tecnologia, estudande nas horas vagas e em busca de um sonho.
+Descobri a programação por acaso quando trabalhei como tecnico de informática, acabei me envolvendo cada vez mais, e oque era um trabalho acabou se tornando um hobby, e o que era um hobby acabou se tornando um sonho...e eu pretendo realizá-lo.
 Caso queira contribuir na minha jornada, me adicione no Linkedin e vamos trocar experiências e conhecimentos.
 Grande abraço!
 <br>
